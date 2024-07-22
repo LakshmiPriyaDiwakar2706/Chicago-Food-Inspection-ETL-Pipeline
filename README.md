@@ -48,7 +48,7 @@ The architecture of the ETL pipeline includes:
  [ETL Code](https://github.com/LakshmiPriyaDiwakar2706/Chicago-Food-Inspection-ETL-Pipeline/blob/main/DAG.png)
 
 - DAG Code file
- [DAG code](https://github.com/LakshmiPriyaDiwakar2706/Chicago-Food-Inspection-ETL-Pipeline/blob/main/DAG.png)
+ [DAG code](https://github.com/LakshmiPriyaDiwakar2706/Chicago-Food-Inspection-ETL-Pipeline/blob/main/food_inspections_etl.py)
 
 - DAG Run Status
  [DAG Job run status](https://github.com/LakshmiPriyaDiwakar2706/Chicago-Food-Inspection-ETL-Pipeline/blob/main/DAG.png)
