@@ -43,8 +43,14 @@ The architecture of the ETL pipeline includes:
    - Load the transformed data into the S3 bucket using an Airflow DAG (Directed Acyclic Graph).
 
 ## Results
+- ETL code file
+ DAG Run Status
+ [ETL Code](https://github.com/LakshmiPriyaDiwakar2706/Chicago-Food-Inspection-ETL-Pipeline/blob/main/DAG.png)
+
+- DAG Code file
+ [DAG code](https://github.com/LakshmiPriyaDiwakar2706/Chicago-Food-Inspection-ETL-Pipeline/blob/main/DAG.png)
+
 - DAG Run Status
-The DAG runs successfully as shown in the screenshot below:
  [DAG Job run status](https://github.com/LakshmiPriyaDiwakar2706/Chicago-Food-Inspection-ETL-Pipeline/blob/main/DAG.png)
 
 
