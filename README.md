@@ -50,5 +50,5 @@ The DAG runs successfully as shown in the screenshot below:
 
 - S3 Bucket Contents
 The processed data is successfully loaded into the S3 bucket:
-  [S3 bucket Content](https://github.com/LakshmiPriyaDiwakar2706/Chicago-Food-Inspection-ETL-Pipeline/blob/main/S3 Bucket.png)
+  [S3 bucket Content](https://github.com/LakshmiPriyaDiwakar2706/Chicago-Food-Inspection-ETL-Pipeline/blob/main/S3%20Bucket.png)
 
