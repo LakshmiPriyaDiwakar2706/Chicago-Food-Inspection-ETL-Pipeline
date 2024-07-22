@@ -25,14 +25,14 @@ Apache Airflow installed.
 Launch an EC2 instance on AWS.
 Install necessary dependencies (Python, Airflow, AWS CLI) on the instance.
 
-2.Set Up S3 Bucket:
+2. Set Up S3 Bucket:
 Create an S3 bucket on AWS to store the processed data.
 
-3.Configure Apache Airflow:
+3. Configure Apache Airflow:
 Install Apache Airflow on the EC2 instance.
 Set up Airflow to use the S3 bucket as a storage location.
 
-4.Develop the ETL Pipeline:
+4. Develop the ETL Pipeline:
 Write a Python script to fetch data from the Chicago Data Portal API.
 Transform the data by dropping unnecessary columns.
 Load the transformed data into the S3 bucket using an Airflow DAG (Directed Acyclic Graph).
