@@ -45,6 +45,7 @@ The architecture of the ETL pipeline includes:
 ## Results
 - DAG Run Status
 The DAG runs successfully as shown in the screenshot below:
+ [DAG Job run status](https://public.tableau.com/app/profile/lakshmi.priya.diwakar7591/viz/AutonomyandActivity/AutonomyandActivity)
 
 
 - S3 Bucket Contents
