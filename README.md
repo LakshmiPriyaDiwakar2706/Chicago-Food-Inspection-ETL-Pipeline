@@ -45,8 +45,10 @@ The architecture of the ETL pipeline includes:
 ## Results
 - DAG Run Status
 The DAG runs successfully as shown in the screenshot below:
- [DAG Job run status](https://public.tableau.com/app/profile/lakshmi.priya.diwakar7591/viz/AutonomyandActivity/AutonomyandActivity)
+ [DAG Job run status](https://github.com/LakshmiPriyaDiwakar2706/Chicago-Food-Inspection-ETL-Pipeline/blob/main/DAG.png)
 
 
 - S3 Bucket Contents
 The processed data is successfully loaded into the S3 bucket:
+  [S3 bucket Content](https://github.com/LakshmiPriyaDiwakar2706/Chicago-Food-Inspection-ETL-Pipeline/blob/main/S3 Bucket.png)
+
